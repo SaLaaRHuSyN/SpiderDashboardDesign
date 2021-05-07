@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiderDashboardDesign", "SpiderDashboardDesign\SpiderDashboardDesign.csproj", "{4CAF4046-61D3-422D-82C8-FA30367A6FCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CAF4046-61D3-422D-82C8-FA30367A6FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CAF4046-61D3-422D-82C8-FA30367A6FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CAF4046-61D3-422D-82C8-FA30367A6FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CAF4046-61D3-422D-82C8-FA30367A6FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4431FF2D-7AFB-47C2-8ACA-4AC58633A98A}
+	EndGlobalSection
+EndGlobal
